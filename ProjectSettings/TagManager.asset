@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SceneObject
+  - PlayerProjectile
+  - Enemy
+  - EnemyProjectile
+  - MovingPlatform
+  - Ground
+  - Trap
+  - Void
+  - Object
+  - Ladder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - PlayerProjectile
+  - EnemyProjectile
+  - Enemy
+  - Player
+  - Background
+  - Object
+  - Interactive
+  - TopEffects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 2561102877
+    locked: 0
+  - name: Background
+    uniqueID: 1488878071
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2316840559
+    locked: 0
+  - name: Player
+    uniqueID: 3785641227
+    locked: 0
+  - name: Foreground
+    uniqueID: 3268122099
+    locked: 0
+  - name: BuiltInUI
+    uniqueID: 2594470093
+    locked: 0
+  - name: TopRenderingLayer
+    uniqueID: 11254601
+    locked: 0
